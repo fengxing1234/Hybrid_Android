@@ -1,0 +1,3 @@
+[submodule "hybrid_flutter_moudle"]
+	path = hybrid_flutter_moudle
+	url = https://github.com/fengxing1234/hybrid_flutter_moudle.git
